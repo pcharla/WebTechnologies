@@ -1,0 +1,45 @@
+head h1{
+		float:left;
+		color: rgb(100,0,0);
+		margin:0;
+		text-align: center;
+		}
+	header h2{
+		text-align:center;
+		font-weight:normal;
+		color:rgb(0,150,175);
+		}
+	section{
+		background:rgb(255,215,215);
+		padding: 10px;
+		}
+	section h2{
+		text-align:center;
+		color:rgb(0,100,150);
+		}
+	section p{
+		color:rgb(0,150,150);
+		}
+	article{
+		background:rgb(255,255,255);
+		float:left;
+		width:29.3%;
+		margin:1%;
+		padding: 1%;
+		height:200px;
+	}
+	h3{
+		color:rgb(45,45,45);
+		}
+	article p{
+		color:rgb(75,75,75);
+		}
+	li{
+		color:rgb(75,75,75);
+		}
+	footer{
+		text-align:center;
+		background:rgb(175,175,175);
+		clear:left;
+		padding: 25px;
+		}
